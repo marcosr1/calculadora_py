@@ -1,5 +1,5 @@
 #!/bin/bash
-#o sudo aqui seria usado para instalar o python3 em qualquer maquina caso nao tenho e posteriormente executando a calculadora autamaticamente.
+#o sudo é usado para instalar o python3 na maquina caso nao tenha instalado e posteriormente executando a calculadora autamaticamente.
 sudo apt update
 sudo apt install python3
 
